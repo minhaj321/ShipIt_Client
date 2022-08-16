@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.vertical-timeline.vertical-timeline-custom-line::before {
+  background: #1A2387;
+}
+.css-dali06{
+  height: 10px;
+}

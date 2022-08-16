@@ -1,0 +1,36 @@
+.offers_cards_main{
+    margin-left: 40px !important;
+}
+@media only screen and (max-width:1030px){
+    .my-offers-main-div{
+        margin-left: -30px !important;
+    }
+    .my-offer-filter-div{
+        margin-left: -40px !important;
+    }
+}
+
+@media only screen and (max-width:430px){
+    /* .request-card{
+        width: 120% !important;        
+    } */
+    .offers_cards_main{
+        margin-left: 20px !important;
+    }
+    .my-offer-filter-div{
+        margin-left: 0px !important;
+    }
+}
+
+@media only screen and (max-width:380px){
+    .offers_cards_main{
+        margin-left: 0px !important;
+    }
+}
+
+@media only screen and (max-width:330px){
+
+.offer_filter_btn{
+    margin-left: 40px !important;
+}
+}

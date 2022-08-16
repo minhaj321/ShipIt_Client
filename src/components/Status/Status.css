@@ -1,0 +1,9 @@
+@media only screen and (max-width:770px){
+    .status_div{
+        /* font-size: 6px; */
+    }
+    .status_chip{
+        font-size: 10px;
+
+    }
+}

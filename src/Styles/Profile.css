@@ -1,0 +1,31 @@
+.changeOnHover{
+    text-decoration: underline;
+}
+.changeOnHover:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+@media screen and (max-width:1030px){
+    .main-profile-div{
+        margin-left: -50px;
+    }
+}
+
+@media screen and (max-width:430px){
+    .profile-name{
+        margin-left: 20px;
+    }
+    .profile-rating{
+        margin-left: 10px;
+
+    }
+}
+
+@media screen and (max-width:320px){
+    .profile-rating{
+        margin-left: 0px;
+
+    }
+}
+

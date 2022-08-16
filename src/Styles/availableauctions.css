@@ -1,0 +1,15 @@
+.main_cards{
+    margin-left: 40px;
+}
+
+@media only screen and (max-width:380px){
+    .main_cards{
+        margin-left: -30px !important;
+    }
+}
+
+@media only screen and (max-width:330px){
+    .main_cards{
+        margin-left: -50px !important;
+    }
+}

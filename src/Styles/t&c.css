@@ -1,0 +1,9 @@
+.tAndcPage{
+    min-height: 100vh;
+    padding: 5%;
+    text-align: left;
+}
+
+.terms-and-conditions-li{
+    margin: 15px;
+}

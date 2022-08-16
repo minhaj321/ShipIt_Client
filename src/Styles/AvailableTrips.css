@@ -1,0 +1,39 @@
+.available_trip_row{
+    margin-left: 40px !important;
+}
+
+@media screen and (max-width:1030px) {
+    .available-trip-div{
+        margin-left: -60px !important;
+    }
+}
+
+@media screen and (max-width:770px) {
+    .available-trip-div{
+        margin-left: -70px !important;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .available-trip-div{
+        margin-left: 0px !important;
+    }
+    .available_trip_row{
+        margin-left: 0px !important;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .available-trip-div{
+        margin-left: -30px !important;
+    }
+    .available_trip_row{
+        margin-left: -30px !important;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .available_trip_row{
+    margin-left: -60px !important;
+}
+}

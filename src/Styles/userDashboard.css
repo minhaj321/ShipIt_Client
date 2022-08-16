@@ -1,0 +1,22 @@
+.main-dashboard{
+    margin-left: 40px !important;
+}
+@media only screen and (max-width:1024px){
+h3{
+    font-size: 17px;
+}
+.main-dashboard{
+    margin-left: -50px !important;
+}
+}
+
+@media only screen and (max-width:430px){
+    .main-dashboard{
+        margin-left: -60px;
+    }
+    h5{
+        margin-left: 5px !important;
+    }
+    
+    
+    }

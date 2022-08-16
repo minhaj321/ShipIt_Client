@@ -1,0 +1,45 @@
+.drawer_styled{
+    background-color: #1A2387;
+    color:white;
+    height: 100vh;
+    width: 75px;
+}
+.sidebar_drawer_Styled{
+    background-color: #1A2387;
+    color:white;
+    height: 100vh;
+
+}
+.open_btn{
+    margin-left: 20px !important;
+}
+.dashboard_avatar{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+}
+.dashboard_profile_div{
+    margin: 30px;
+    text-align: center;
+}
+.dashboard_list_item{
+font-weight: bold;
+font-size: 16px;
+}
+.css-1t29gy6-MuiToolbar-root{
+    margin-left: -20px;
+}
+.main_dashboard{
+    height:100vh;
+}.css-dali06{
+  height: 10px;
+}
+.css-dali06{
+    height: 10px;
+  }
+
+  @media only screen and (max-width:430px) {
+      .MuiButtonBase-root{
+          margin-top:0px !important;
+      }
+  }

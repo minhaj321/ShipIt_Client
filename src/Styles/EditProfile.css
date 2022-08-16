@@ -1,0 +1,25 @@
+@media only screen and (max-width:1026px){
+.edit_city_div{
+    width:46%;
+    margin-left: 20px !important;
+}
+}
+
+
+@media only screen and (max-width:770px){
+    .edit_city_div{
+        width:55%;
+        margin-left: 00px !important;
+    }
+    }
+
+@media only screen and (max-width:430px){
+    .edit_profile_form{
+        margin-left: -60px !important;
+    }
+    .edit_city_div{
+        width: 80% !important;
+        margin-left: 25% !important;   
+ }
+    
+}

@@ -1,0 +1,21 @@
+.auction-row{
+    margin-left: 40px !important;
+}
+
+@media screen and (max-width:430px) {
+    .auction-row{
+    margin-left: 0px !important;
+}
+}
+
+@media screen and (max-width:380px) {
+    .auction-row{
+    margin-left: -30px !important;
+}
+}
+
+@media screen and (max-width:380px) {
+    .auction-row{
+    margin-left: -60px !important;
+}
+}

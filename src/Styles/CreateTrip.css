@@ -1,0 +1,28 @@
+.trip_creation_form{
+    height: 90% !important;
+}
+
+@media screen and (max-width:1030px) {
+    .create-trip-form{
+        margin-left:30px;
+    }
+ .create_trip_first_div{
+     margin-left: -40px;
+ }   
+.add_a_trip{
+    margin-left: -50px !important;
+}
+
+}
+
+@media screen and (max-width:430px) {
+    .create-trip-form{
+        margin-left: 0px;
+    }
+    .create_trip_first_div{
+        margin-left: 0px;
+    }   
+    .add_a_trip{
+        margin-left: 0px !important;
+    }
+}

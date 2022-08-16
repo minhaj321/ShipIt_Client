@@ -1,0 +1,64 @@
+@media only screen and (max-width:1026px){
+    .form{
+        width: 80% !important;
+    }   
+    Col{
+    margin-left: 5px !important;
+}
+.cityCol{
+    padding-left: 0px !important;
+    padding-right: 7px !important;
+}
+.provinceCol{
+    padding-right: 0px !important;
+}
+}
+
+@media only screen and (max-width:770px){
+    .form{
+        width: 90% !important;
+    }   
+    
+.cityCol{
+    padding-left: 10px !important;
+    padding-right: 0px !important;
+}
+.provinceCol{
+    padding-left: 10px !important;
+    padding-right: 0px !important;
+}
+.streetCol{
+    padding-left: 10px !important;
+    padding-right: 0px !important;
+
+}
+}
+@media only screen and (max-width:430px){
+    .form{
+        width: 70% !important;
+    }   
+    .street{
+        padding-top: 10px;
+    }
+    .cityCol{
+        padding-left: 10px !important;
+        padding-right: 4px !important;
+    }
+    .provinceCol{
+        padding-left: 10px !important;
+        padding-right: 4px !important;
+    }
+    .streetCol{
+        padding-left: 10px !important;
+        padding-right: 4px !important;
+    
+    }
+
+}
+
+@media only screen and (max-width:325px){
+    .form{
+        width: 90% !important;
+    }   
+    
+}

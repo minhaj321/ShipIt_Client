@@ -1,0 +1,31 @@
+.choose_img{
+cursor:pointer;
+}
+
+@media only screen and (max-width:1026px){
+.headings{
+    margin-left: 20px !important;
+}
+.chooseAccountImg{
+    width: 400px;
+    height: 400px;
+}    
+
+}
+
+@media only screen and (max-width:770px){
+
+    .chooseAccountImg{
+        width: 300px !important;
+        height: 300px !important;
+    }    
+    }
+
+@media only screen and (max-width:430px){
+
+    .chooseAccountImg{
+        width: 100% !important;
+        height: 200px !important;
+        display: block;
+    }    
+    }

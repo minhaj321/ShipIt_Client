@@ -1,0 +1,34 @@
+.shipper_auction_details_main{
+    margin-left: 0px !important;
+}
+@media only screen and (max-width:1030px){
+
+.bids_list{
+margin-left: 100px !important;
+}
+}
+
+@media only screen and (max-width:780px){
+
+    .package_image{
+        height: 250px;        
+    }
+    .shipper_auction_details_main{
+        margin-left: -100px !important;
+    }
+
+}
+
+@media only screen and (max-width:430px){
+
+    .package_image{
+        height: 200px;        
+    }
+    .shipper_auction_details_main{
+        margin-left: -70px !important;
+    }
+
+    .bids_list{
+        margin-left: 50px !important;
+        }
+}

@@ -1,0 +1,64 @@
+.verify-img{
+    height: 400px !important;
+    width: 400px !important;
+}
+
+@media screen and (max-width:1030px) {
+    Button{
+        font-size: 13px !important;
+    }
+
+    .shipper-offer-details-main{
+        margin-left: -50px !important;
+    }
+}
+
+
+@media screen and (max-width:770px) {
+    Button{
+        font-size: 10px !important;
+    }
+    .shipper_chat-active_btn{
+        margin-left: 5px !important;
+    }
+    .shipper_profile-active_btn{
+        margin-left: 10px !important;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .terms-and-cond{
+        width: 90% !important;
+    }
+    .verify-box{
+        width: 95% !important;
+    }
+    .verify-img{
+        width: 95% !important;
+        height:80% !important;
+        margin-bottom: 10px ;
+    }
+.pickup-heading{
+    margin-top: 15px !important;
+}
+    .shipper-offer-details-main{
+        margin-left: -60px !important;
+    }
+    .profile-btn{
+        margin-bottom: 10px !important;
+        margin-left: 20px !important;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .shipper-offer-details-main{
+
+        margin-left: -50px !important;
+    }
+    .shipper_chat-active_btn{
+        margin-left: 12px !important;
+    }
+    .shipper_profile-active_btn{
+        margin-left: 25px !important;
+    }
+}

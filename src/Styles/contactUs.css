@@ -1,0 +1,15 @@
+.contact-us-page{
+    height: 100vh;
+    padding-top: 5%;
+}
+
+.contact-us-form{
+    width: 50%;
+    margin: auto;
+}
+
+
+.contact-us-form-item{
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}

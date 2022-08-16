@@ -1,0 +1,20 @@
+@media screen and (max-width:770px){
+    h5{
+        font-size: 16px;
+    }
+}
+
+
+@media screen and (max-width:430px){
+    h5{
+        font-size: 16px;
+        margin-left: -20px;
+    }
+    .main-vehicle-details{
+        margin-left: -70px !important;
+    }
+    .delete_vehicle_popup{
+        width: 80% !important;
+        font-size: 12px;
+    }
+}

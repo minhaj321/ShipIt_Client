@@ -1,0 +1,26 @@
+.social-btn{
+    color:white !important;
+    width: 40% !important ;
+    margin: 10px !important ;
+    }
+    
+    .or-section{
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    
+    button{
+        display: block !important;
+    }
+    hr{
+        color: black !important;
+        width: 10% !important;
+        display: inline-block !important;
+    }
+    .row{
+        margin-top: 40px !important;
+    }
+    .or{
+        margin: 0px 10px !important;
+    }

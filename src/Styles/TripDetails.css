@@ -1,0 +1,28 @@
+
+@media only screen and (max-width:1030px){
+    h3{
+        font-size: 24px;
+    }
+.trip-details-main-div{
+    margin-left:-40px !important;
+}
+}
+
+
+@media only screen and (max-width:770px){
+    h3{
+        font-size: 20px;
+    }
+.trip-details-main-div{
+    margin-left:-50px !important;
+}
+}
+
+@media only screen and (max-width:430px){
+    h3{
+        font-size: 16px;
+    }
+.trip-details-main-div{
+    margin-left:-70px !important;
+}
+}

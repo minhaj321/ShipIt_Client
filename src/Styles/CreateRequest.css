@@ -1,0 +1,35 @@
+@media screen and (max-width:1030px) {
+    .create-request-main{
+        margin-left: -80px;
+    }
+}
+
+@media screen and (max-width:770px) {
+.create-shipment-two-popup{
+    height:90%;
+}
+
+}
+
+
+@media screen and (max-width:430px) {
+    .create-request-main{
+        margin-left: -50px;
+    }
+    .create-shipment-two-popup{
+        width:90% !important;
+    }
+        
+    .step-two-dropoff-btn{
+        margin-bottom: 30px !important;
+    }
+    .step-two-pickup-btn{
+        margin-bottom: 0px !important;
+    }
+    .shipment-step-two-form{
+        margin-left: -20px !important;
+    }
+    .shipment-step-two-form Row Col{
+        padding-right: 0px;
+    }
+}

@@ -1,0 +1,43 @@
+@media screen and (max-width:1030px) {
+    Button{
+        font-size: 13px !important;
+    }
+
+    .carrier-offer-details-main{
+        margin-left: -50px !important;
+    }
+}
+
+
+@media screen and (max-width:770px) {
+    Button{
+        font-size: 10px !important;
+    }
+    .accept_btn{
+        margin-left: -10px !important;
+
+    }
+    .reject_btn{
+        margin-left: -20px !important;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .carrier-offer-details-main{
+
+        margin-left: -40px !important;
+    }
+    .profile-btn{
+        margin-bottom: 10px !important;
+    }
+    .profile-btn{
+        margin-left: 20px !important;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .carrier-offer-details-main{
+
+        margin-left: -50px !important;
+    }
+}

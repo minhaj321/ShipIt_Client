@@ -1,0 +1,26 @@
+@media only screen and (max-width:770px){
+.auction_display_img{
+height: 300px !important;
+}
+}
+
+@media only screen and (max-width:430px){
+    .auction_carrier_main{
+        margin-left: -65px;
+    }
+    .auction_display_img{
+        height: 300px !important;
+        width: 300px !important;
+        }
+        .create_bid{
+            width: 96% !important;
+        }
+}
+
+@media only screen and (max-width:430px){
+    .auction_display_img{
+        height: 200px !important;
+        width: 200px !important;
+        }
+        
+}

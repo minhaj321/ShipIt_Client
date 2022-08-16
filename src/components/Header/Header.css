@@ -1,0 +1,23 @@
+.sub_div{
+    display: inline;
+    margin-left: 10px;
+    border-radius: 50px;
+    font-size: 20px;
+    padding: 5px;
+    cursor:pointer;
+}
+
+.logout{
+    display: inline;
+}
+.header_parent_div{
+    float: right;
+    margin-right: 30px;
+}
+
+@media only screen and (max-width:430px){
+.logout button{
+        margin-top: 0px !important;
+    }
+    
+}

@@ -1,0 +1,40 @@
+.shipment-row{
+    margin-left: 40px !important;
+}
+
+
+@media screen and (max-width:1030px) {
+    .my-shipment-main-div{
+        margin-left: -80px;
+    }
+    .my-offers-main-div{
+        margin-left: -30px !important;
+    }
+    .my-offer-filter-div{
+        margin-left: -40px !important;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .my-shipment-main-div{
+        margin-left: -45px;
+    }
+    .shipment-row{
+        margin-left: 0px !important;
+    }
+    .my-offer-filter-div{
+        margin-left: 0px !important;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .shipment-row{
+    margin-left: -30px !important;
+}
+}
+
+@media screen and (max-width:380px) {
+    .shipment-row{
+    margin-left: -60px !important;
+}
+}

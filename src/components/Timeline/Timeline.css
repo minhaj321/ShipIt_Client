@@ -1,0 +1,28 @@
+.timeline_sequence{
+margin-left:20;
+}
+
+.pickedUp_btn,.skip_btn,.verify_btn,.dropOff_btn{
+    width: 30% !important;
+}
+.timeline_parent{
+    margin-left: -250px !important;
+}
+@media only screen and (max-width:770px){
+    .timeline_parent{
+        margin-left: -130px !important;
+    }
+    .routed_map_div{
+        height: 400px !important;
+    }
+}
+
+
+@media only screen and (max-width:430px){
+    .verification_box{
+        width: 98% !important;
+    }
+    .timeline_sequence{
+        margin-left: 0px !important;
+    }
+}

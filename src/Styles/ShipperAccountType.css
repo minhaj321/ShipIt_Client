@@ -1,0 +1,33 @@
+
+
+@media only screen and (max-width:770px){
+    .second{
+    }
+    .first{
+    }
+    }
+
+
+@media only screen and (max-width:430px){
+    .second{
+        margin-top: 150% !important;
+    }
+    }
+    
+    @media only screen and (max-width:380px){
+        .second{
+            margin-top: 180% !important;
+        }
+        .third{
+            margin-top: 180% !important;
+        }
+        }
+    
+        @media only screen and (max-width:325px){
+            .second{
+                margin-top: 200% !important;
+            }
+            .third{
+                margin-top: 200% !important;
+            }
+            }

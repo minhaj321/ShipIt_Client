@@ -1,0 +1,91 @@
+
+@media only screen and (max-width:1026px){
+.accountCard{
+    width: 300px !important;
+}
+.cardAvatar{
+    margin-left: 70px !important;
+    width: 100px !important;
+}
+.cardImg{
+    width: 100px !important;
+    height: 100px !important;
+}
+h4{
+    font-size: 17px;
+}
+}
+
+
+
+@media only screen and (max-width:770px){
+    .accountCard{
+        width: 200px !important;
+        height: 530px !important;
+    }
+    .cardAvatar{
+        margin-left: 30px !important;
+        width: 70px !important;
+        height: 70px !important;
+    }
+    .cardImg{
+        width: 70px !important;
+        height: 70px !important;
+    }
+    h4{
+        font-size: 15px;
+    }
+    button{
+        font-size: 12px !important;
+    }
+    }
+    
+    
+    
+
+@media only screen and (max-width:430px){
+    .accountCard{
+        width: 90% !important;
+        height: 530px !important;
+    }
+    .cardAvatar{
+        margin-left: 35% !important;
+        width: 100px !important;
+        height: 100px !important;
+    }
+    .cardImg{
+        width: 100px !important;
+        height: 90px !important;
+    }
+    h4{
+        font-size: 15px;
+    }
+    button{
+        font-size: 12px !important;
+        margin-top: 40px !important;
+    }
+    }
+
+    @media only screen and (max-width:380px){
+        .cardAvatar{
+            margin-left: 30% !important;
+        }
+        .accountCard{
+            width: 85% !important;
+        }
+    
+    }
+    
+    @media only screen and (max-width:325px){
+        .cardAvatar{
+            margin-left: 22% !important;
+        }
+        .accountCard{
+            width: 80% !important;
+        }
+        button{
+            margin-top: 20px !important;
+        }
+    }
+    
+    

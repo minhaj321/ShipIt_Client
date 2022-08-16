@@ -1,0 +1,110 @@
+.social-btn {
+    color: white !important;
+    width: 40% !important;
+    margin: 10px !important;
+    height: 35px;
+}
+
+.tryLogin {
+    color: aliceblue !important;
+    background-color: antiquewhite !important;
+}
+
+.changeOpacity {
+    opacity: 0.4;
+}
+
+.applyHover:hover {
+    /* border-bottom: 1px solid black; */
+    font-weight: bold;
+}
+img {
+    width: 450px;
+    height: 400px;
+}
+.facebook-login {
+    background-color: #1542b3;
+    color: #fff;
+    margin: auto;
+    width: 40%;
+    height: 35px;
+    border: none;
+}
+
+.or-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    display: block;
+}
+
+hr {
+    color: black;
+    width: 10%;
+    display: inline-block;
+}
+
+.row {
+    margin-top: 40px;
+}
+
+.or {
+    margin: 0px 10px !important;
+}
+
+@media screen and (max-width:1026px) {
+    
+    .social-btn {
+        width: 70% !important;
+    }
+    .facebook-login {
+        width: 70% !important;
+    }
+    .Registerform {
+        margin: 0px !important;
+    }
+    .loginForm {
+        margin: 0px !important;
+    }
+}
+
+@media screen and (max-width:770px) {
+    img {
+        width: 50%;
+    }
+    .registerImg {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .loginImg, .registerImg {
+        display: none !important;
+    }
+    .facebook-login {
+        width: 85% !important;
+        font-size: 12px !important;
+    }
+    .social-btn {
+        font-size: 12px !important;
+        width: 85% !important;
+    }
+    .row {
+        margin-left: 30px;
+    }
+    .googleBtn {
+        margin-top: 0px;
+    }
+    .facebookBtn {
+        margin-top: 0px;
+    }
+    .Registerform {
+        margin: auto !important;
+    }
+    .loginForm {
+        margin: auto !important;
+    }
+}
